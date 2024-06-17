@@ -93,5 +93,12 @@ highest return on investment.
 ➖ More discounted campaigns will be beneficial.
 
 
+<div>
+	<img src="https://github.com/Maddy1107/Marketing_Campaign_Analysis/blob/main/Viz%20Images/1.jpg"/>
+		<img src="https://github.com/Maddy1107/Marketing_Campaign_Analysis/blob/main/Viz%20Images/2.jpg"/>
+	<img src="https://github.com/Maddy1107/Marketing_Campaign_Analysis/blob/main/Viz%20Images/3.jpg"/>
+	<img src="https://github.com/Maddy1107/Marketing_Campaign_Analysis/blob/main/Viz%20Images/4.jpg"/>
+	<img src="https://github.com/Maddy1107/Marketing_Campaign_Analysis/blob/main/Viz%20Images/5.jpg"/>
+</div>
 
 I hope this provided meaningful insight. Open to any kind of feedback.
